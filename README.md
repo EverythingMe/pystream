@@ -1,7 +1,7 @@
 # pystream
 
 Stream backups directly to/from S3/HDFS without wasting disk space during the process.  
-This tool is a ommand line interface for the [smart_open](https://pypi.python.org/pypi/smart_open/) library
+This tool is a command line interface for the [smart_open](https://pypi.python.org/pypi/smart_open/) library
 
 ## Installation
 
